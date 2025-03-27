@@ -2324,3 +2324,15 @@
 3/26/2025 | 8:22:52 PM | INFO | Trying to check user miner status... 
 3/26/2025 | 8:22:53 PM | INFO | Last mining time: 3/25/2025, 8:22:57 PM
 3/26/2025 | 8:22:53 PM | WARN | Mining already started, next mining time is: 3/26/2025, 8:22:57 PM
+3/27/2025 | 1:40:56 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+3/27/2025 | 1:40:56 AM | INFO | Start process for wallet 0xB31C777014ce39B8074285120372a86060AFd3B1 
+3/27/2025 | 1:40:57 AM | INFO | Trying To Login for wallet: 0xB31C777014ce39B8074285120372a86060AFd3B1 
+3/27/2025 | 1:40:58 AM | INFO | Login successful... 
+3/27/2025 | 1:40:58 AM | INFO | Trying to check user info... 
+3/27/2025 | 1:40:59 AM | INFO | User ID: 99087455 | Twitter: @wcaulia | Total Points: 890680 
+3/27/2025 | 1:40:59 AM | INFO | Trying to check user miner status... 
+3/27/2025 | 1:40:59 AM | INFO | Last mining time: 3/25/2025, 8:22:57 PM
+3/27/2025 | 1:40:59 AM | INFO | Trying to start Mining for wallet: 0xB31C777014ce39B8074285120372a86060AFd3B1 
+3/27/2025 | 1:41:00 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+3/27/2025 | 1:41:00 AM | INFO | Trying to activate mining on-chain for wallet: 0xB31C777014ce39B8074285120372a86060AFd3B1 
+3/27/2025 | 1:41:07 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x60980c6386f43805c33ae9adad64eca8be04efdc4c0e3010e560857f43587337 
