@@ -3732,3 +3732,12 @@
 4/20/2025 | 12:38:17 PM | INFO | Trying to activate mining on-chain for wallet: 0xB31C777014ce39B8074285120372a86060AFd3B1 
 4/20/2025 | 12:38:17 PM | ERROR | Activate Mining Error: {"code":"ECONNRESET","path":null,"host":"rpc-mainnet.taker.xyz","port":443}
 4/20/2025 | 12:38:17 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+4/20/2025 | 4:23:12 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/20/2025 | 4:23:12 PM | INFO | Start process for wallet 0xB31C777014ce39B8074285120372a86060AFd3B1 
+4/20/2025 | 4:23:13 PM | INFO | Trying To Login for wallet: 0xB31C777014ce39B8074285120372a86060AFd3B1 
+4/20/2025 | 4:23:14 PM | INFO | Login successful... 
+4/20/2025 | 4:23:14 PM | INFO | Trying to check user info... 
+4/20/2025 | 4:23:14 PM | INFO | User ID: 99087455 | Twitter: @wcaulia | Total Points: 1442680 
+4/20/2025 | 4:23:14 PM | INFO | Trying to check user miner status... 
+4/20/2025 | 4:23:20 PM | INFO | Last mining time: 4/19/2025, 8:20:48 PM
+4/20/2025 | 4:23:20 PM | WARN | Mining already started, next mining time is: 4/20/2025, 8:20:48 PM
