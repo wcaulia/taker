@@ -5002,3 +5002,16 @@
 5/12/2025 | 8:24:39 PM | INFO | Trying to activate mining on-chain for wallet: 0xB31C777014ce39B8074285120372a86060AFd3B1 
 5/12/2025 | 8:25:07 PM | ERROR | Activate Mining Error: {"code":"UNKNOWN_ERROR","error":{"code":-32603,"message":"submit transaction to pool failed: Ok(ImmediatelyDropped)"},"payload":{"method":"eth_sendRawTransaction","params":["0x02f86e82046555830186a083200b2082ed9594b3efe5105b835e5dd9d206445dbd66df24b912ab808402fb0c5ec001a01d0144d066ad2de3837a60bdb4756d7aa37f64672478e4974ef97df3818f0e8da01e2473797286ae4c4edbe35f15f60a552c712c7df2ee7ca8b7404273b391be14"],"id":10,"jsonrpc":"2.0"},"shortMessage":"could not coalesce error"}
 5/12/2025 | 8:25:07 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+5/13/2025 | 1:49:11 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/13/2025 | 1:49:12 AM | INFO | Start process for wallet 0xB31C777014ce39B8074285120372a86060AFd3B1 
+5/13/2025 | 1:49:12 AM | INFO | Trying To Login for wallet: 0xB31C777014ce39B8074285120372a86060AFd3B1 
+5/13/2025 | 1:49:13 AM | INFO | Login successful... 
+5/13/2025 | 1:49:13 AM | INFO | Trying to check user info... 
+5/13/2025 | 1:49:14 AM | INFO | User ID: 99087455 | Twitter: @wcaulia | Total Points: 1922680 
+5/13/2025 | 1:49:14 AM | INFO | Trying to check user miner status... 
+5/13/2025 | 1:49:17 AM | INFO | Last mining time: 5/11/2025, 8:21:42 PM
+5/13/2025 | 1:49:17 AM | INFO | Trying to start Mining for wallet: 0xB31C777014ce39B8074285120372a86060AFd3B1 
+5/13/2025 | 1:49:20 AM | INFO | Mine response: {"code":500,"msg":"The contract is not activated. Please activate the contract first","data":null}
+5/13/2025 | 1:49:20 AM | INFO | Trying to activate mining on-chain for wallet: 0xB31C777014ce39B8074285120372a86060AFd3B1 
+5/13/2025 | 1:49:21 AM | ERROR | Activate Mining Error: {"code":"SERVER_ERROR","request":{},"response":{},"info":{"requestUrl":"https://rpc-mainnet.taker.xyz/","responseBody":"<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.26.2</center>\r\n</body>\r\n</html>\r\n","responseStatus":"502 Bad Gateway"},"shortMessage":"server response 502 Bad Gateway"}
+5/13/2025 | 1:49:21 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 
