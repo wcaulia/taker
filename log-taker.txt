@@ -5176,3 +5176,12 @@
 5/15/2025 | 4:28:17 PM | INFO | Trying to activate mining on-chain for wallet: 0xB31C777014ce39B8074285120372a86060AFd3B1 
 5/15/2025 | 4:28:24 PM | ERROR | Activate Mining Error: {"code":"CALL_EXCEPTION","action":"estimateGas","data":"0x08c379a0000000000000000000000000000000000000000000000000000000000000002000000000000000000000000000000000000000000000000000000000000000356d757374206265206d6f7265207468616e20323420686f7572732073696e636520746865206c6173742061637469766174696f6e2e0000000000000000000000","reason":"must be more than 24 hours since the last activation.","transaction":{"to":"0xB3eFE5105b835E5Dd9D206445Dbd66DF24b912AB","data":"0x02fb0c5e","from":"0xB31C777014ce39B8074285120372a86060AFd3B1"},"invocation":null,"revert":{"signature":"Error(string)","name":"Error","args":["must be more than 24 hours since the last activation."]},"shortMessage":"execution reverted: \"must be more than 24 hours since the last activation.\"","info":{"error":{"code":-32603,"message":"VM Exception while processing transaction: revert must be more than 24 hours since the last activation.","data":"0x08c379a0000000000000000000000000000000000000000000000000000000000000002000000000000000000000000000000000000000000000000000000000000000356d757374206265206d6f7265207468616e20323420686f7572732073696e636520746865206c6173742061637469766174696f6e2e0000000000000000000000"},"payload":{"method":"eth_estimateGas","params":[{"nonce":"0x58","from":"0xb31c777014ce39b8074285120372a86060afd3b1","to":"0xb3efe5105b835e5dd9d206445dbd66df24b912ab","data":"0x02fb0c5e"}],"id":3,"jsonrpc":"2.0"}}}
 5/15/2025 | 4:28:24 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+5/15/2025 | 8:25:06 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/15/2025 | 8:25:06 PM | INFO | Start process for wallet 0xB31C777014ce39B8074285120372a86060AFd3B1 
+5/15/2025 | 8:25:07 PM | INFO | Trying To Login for wallet: 0xB31C777014ce39B8074285120372a86060AFd3B1 
+5/15/2025 | 8:25:08 PM | INFO | Login successful... 
+5/15/2025 | 8:25:08 PM | INFO | Trying to check user info... 
+5/15/2025 | 8:25:08 PM | INFO | User ID: 99087455 | Twitter: @wcaulia | Total Points: 1994680 
+5/15/2025 | 8:25:08 PM | INFO | Trying to check user miner status... 
+5/15/2025 | 8:25:09 PM | INFO | Last mining time: 5/15/2025, 8:29:54 AM
+5/15/2025 | 8:25:09 PM | WARN | Mining already started, next mining time is: 5/16/2025, 8:29:54 AM
